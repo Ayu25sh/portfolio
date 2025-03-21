@@ -12,7 +12,7 @@ const SidebarLinks =[
         id : 2,
         icon: "VscFile",
         name: "RESUME",
-        path: "https://drive.google.com/file/d/1MR4DuOSnaxADod4qfQn7-t8kncdpdL5F/view",
+        path: "https://drive.google.com/file/d/1s1N9y03fXZe2-yOiYnjs5AG1wZO3yHWh/view?usp=sharing",
         pathName: "Download Resume"
     },
     {   
